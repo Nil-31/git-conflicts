@@ -1,2 +1,2 @@
 Deploy window: 09:00 UTC and 22:00 UTC
-contact: oncall rotation
+contact: oncall rotation (was priya@example.com)
